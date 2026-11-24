@@ -1,0 +1,14 @@
+{
+  "name": "command-block",
+  "version": "2.4.0",
+  "description": "命令方块 · 只读代码镜像（Electron 原生客户端，Windows / macOS）",
+  "main": "main.js",
+  "private": true,
+  "scripts": {
+    "start": "electron .",
+    "dev": "electron . --verbose"
+  },
+  "devDependencies": {
+    "electron": "45.2.1"
+  }
+}
